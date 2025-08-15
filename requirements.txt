@@ -1,0 +1,23 @@
+# AI Travel Assistant Requirements
+
+# Core Framework
+streamlit>=1.28.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# OpenAI & Azure OpenAI
+openai>=1.6.0
+
+# Vector Database
+pinecone-client>=3.0.0
+
+# LangChain Framework
+langchain>=0.1.0
+langchain-openai>=0.0.5
+
+# Text-to-Speech
+gTTS>=2.4.0
